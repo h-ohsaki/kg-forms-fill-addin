@@ -64,4 +64,4 @@ https://github.com/h-ohsaki/kg-forms-fill-addin から入手できます。
 
 # AUTHOR
 
-Hiroyuki Ohsaki (ohsaki[atmark]lsnl.jp)
+Hiroyuki Ohsaki (code[atmark]lsnl.jp)
